@@ -14,7 +14,8 @@ Documentation can be found [here](http://skydive.network/documentation/deploymen
     * [Minutes](https://docs.google.com/document/d/1eri4vyjmAwxiWs2Kp4HYdCUDWACF_HXZDrDL8WcPF-o/edit?ts=5d946ad5#heading=h.g8f8gdfq0un9)
 
 * Slack
-    * https://skydive-project.slack.com
+    * Invite : https://slack.skydive.network
+    * Workspace : https://skydive-project.slack.com
 
 ## Contributing
 
